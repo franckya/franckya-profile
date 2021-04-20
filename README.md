@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @franckya
+- 👀 I’m interested in Linux, Coding, Security, and more
+- 🌱 I’m currently learning splunk, and how to be highly proficient in different softwares. 
+- 💞️ I’m looking to collaborate on many open prokects, and wanted to connect with searchers
+- 📫 You can simply visit my website at www.kengneacademy.com
