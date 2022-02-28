@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @franckya
-- 👀 I’m interested in Linux, Coding, Security, and more
-- 🌱 I’m currently learning splunk, and how to be highly proficient in different softwares. 
-- 💞️ I’m looking to collaborate on many open prokects, and wanted to connect with searchers
-- 📫 You can simply visit my website at www.kengneacademy.com
+- 👀 I’m a passionate DevOps learner, who just launch his startup company calls: MCdns found under: https://www.mcdns.io/ 
+- 🌱 I’m currently working on hosting my own server at my house, and browsing ideas on how to better automate my tasks to make it very unoticeable. 
+- 💞️ I’m looking to collaborate and work with other DevOps and Security Engineer to better my skills and get more involve into projects.
+- 📫 You can simply visit my website at https://franckya.github.io/Yannick_Djomo/
+- I am currently training students on getting a AZ-104 certification, and I am open to get some mentor involved to come and do an adds-on to my program. 
+- What am I working on right now? huh interesting question. My friend is hosting a party in 2 months, and want me to write a script that will filter the age range as well as their astrological signs. The guest range allowed to join the party has to be <= 24 && <32. The astrological signs allowed are: pisces, virgo, caprocorn, libra, scorpio, and sagitarius. I am still looking with ideas to start, but contributors are welcome to join. 
+- Funny joke: Would you rather jump out of the plane to die, or swimm in the ocean to die? My answer: I would just shoot, and .
+- What defined you? My work and my personality.
+- Are you a serious guy? I will say I pretty much spend my time on valuing it rather than wasting it, so what would you answer? 
